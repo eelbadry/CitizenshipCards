@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  card_number: 1
+  front_url: MyString
+  back_url: MyString
+  priority: false
+
+two:
+  card_number: 1
+  front_url: MyString
+  back_url: MyString
+  priority: false
